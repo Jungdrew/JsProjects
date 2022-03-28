@@ -1,0 +1,13 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    background: turquoise;
+}

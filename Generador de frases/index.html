@@ -10,7 +10,36 @@
 </head>
 
 <body>
+    
+    <div class="root" id="root-container">
+        <div class="main" >
+            <span class="quote">
+                <i class="fa-solid fa-quote-left"></i>
+                <span id="quoteText">
+                    Hola
+                </span>
+            </span>
+            <span class="author" id="author">
+                - Author
+            </span>
+        </div>
+        
+        <button class="button" id="twitter-button" onclick="googleTranslate()">
+            <i class="fa-solid fa-language"></i>  
+            Google Translate
+        </button>
 
+        <button class="button" id="twitter-button" onclick="twitterPost()">
+            <i class="fa-brands fa-twitter"></i>    
+            Publish on Twitter
+        </button>
+
+        <button class="button" onclick="getQuote()">
+            New Quote
+        </button>
+
+    </div>
+    <div class="lds-ellipsis" id="loader"><div></div><div></div><div></div><div></div></div>
     <!-- Scripts -->
     <script src="script.js"></script>
 </body>
