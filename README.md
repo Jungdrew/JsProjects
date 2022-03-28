@@ -18,7 +18,7 @@
   
 **Biography**
   
-I am Gustavo Ramirez, I characterize myself as a reliable, honest person and capable of working in a team carrying out the activities that are assigned to me based on my knowledge, I am passionate about solving logical problems, making them the most optimal possible when managing large amounts of data, also I enjoy traveling with friends and family to natural places. I am currently training as a professional in systems engineering at the Technological University of Pereira, qualified as a software programming technician through SENA in 2019, my work is focused on Front-end web development End with Angular, Javascript, CSS and HTML.
+I am Gustavo Ramirez, I characterize myself as a reliable, honest person and capable of working in a team carrying out the activities that are assigned to me based on my knowledge, I am passionate about solving logical problems, making them the most optimal possible when managing large amounts of data, also I enjoy traveling with friends and family to natural places. I am currently training as a professional in systems engineering at the Technological University of Pereira in Colombia, qualified as a software programming technician through SENA in 2019, my work is focused on Front-end web development End with Angular, Javascript, CSS and HTML.
   
 ## ⌨️ More repositories 
 
