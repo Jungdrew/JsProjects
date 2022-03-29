@@ -13,7 +13,6 @@
 **Gustavo Ramirez**
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-andres-ramirez-lopez-5612861b5/)
-- [Twitter](https://twitter.com/Areshkew "[Areshkew] Gustavo Ramirez")
 - [Email](mailto:areshk@mail.com?subject=Hi "areshk@mail.com")
 - [Whatssapp](https://api.whatsapp.com/send/?phone=573014477647&text&app_absent=0 "+57 3014477647")
   
