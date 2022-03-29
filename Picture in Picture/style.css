@@ -1,0 +1,38 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ccc;
+    background-image: url(assets/moroccan-flower.png);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.buttonPIP{
+    all: unset;
+    padding: 25px;
+    margin-top: 50vh;
+    background-color: gray;
+    color: white;
+    transition: all 2s;
+    cursor: pointer;
+    border-radius: 15%;
+    border: 1px solid white;
+    box-shadow: 0px 0px 15px black;
+    margin-right: 10%;
+}
+
+.buttonPIP:hover{
+    background-color: white;
+    color: gray;
+    border: 1px solid gray;
+
+}
