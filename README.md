@@ -15,6 +15,7 @@
 - [LinkedIn](https://www.linkedin.com/in/gustavo-andres-ramirez-lopez-5612861b5/)
 - [Email](mailto:areshk@mail.com?subject=Hi "areshk@mail.com")
 - [Whatssapp](https://api.whatsapp.com/send/?phone=573014477647&text&app_absent=0 "+57 3014477647")
+- [Download CV](https://drive.google.com/drive/folders/15o-IO3bhsQUoVHLTAew68Fczf9nk9RwF?usp=sharing)
   
 **Summary**
   
