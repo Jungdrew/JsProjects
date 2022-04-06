@@ -16,6 +16,7 @@ async function getJoke(){
         const joke = getObjJoke(data);
 
         getAudio(joke);
+        toggleButton();
     }catch(error){
         console.log(error);
     }
@@ -58,5 +59,15 @@ function changeLanguage(){
     }
 }
 
+function toggleButton(){
+    if(buttonHTMl.disabled){
+        buttonHTMl.disabled = false;
+    }else{
+        buttonHTMl.disabled = true;
+    }
+}
+
+
 buttonHTMl.addEventListener("click", getJoke);
 languageHTML.addEventListener("click", changeLanguage);
+audioElement.addEventListener("ended", toggleButton);
