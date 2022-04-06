@@ -1,0 +1,47 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f2e4e1;
+    background-image: url(assets/robot-happy.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.audio-styles{
+    height: 20vh;
+}
+
+
+.button-styles{
+    all: unset;
+    background-color: #46a5f3;
+    border: 2px solid #1c6a9c;
+    border-radius: 15px;
+    padding: 10px;
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.button-styles:hover{
+    background-color: #2492d4;
+    font-size: 20px;
+}
+
+.buttons-div{
+    margin-top: 50vh;
+}
