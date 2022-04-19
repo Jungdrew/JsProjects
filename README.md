@@ -1,6 +1,7 @@
 <h1 align="center">Javascript Projects Repository<project-name></h1>
 
-<p align="center">This repository is for upload every javascript code I do.<project-description></p>
+<p align="center">This repository is for upload every javascript mini-projects I do.<project-description></p>
+<p align="center">I'm using [Web Apis](https://developer.mozilla.org/en-US/docs/Web/API), responsive css web design with media queries, flexbox and css grid. </p>
 
 ## 👷‍♂️ Built With
 
