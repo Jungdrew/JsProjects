@@ -25,7 +25,7 @@ I am Gustavo Ramirez, I characterize myself as a reliable, honest person and cap
   
 ## ⌨️ More repositories 
   
-[C++ Data Structures and Algorithms](https://github.com/Jungdrew/C-Data-Estructures-And-Algorithms)
+- [C++ Data Structures and Algorithms](https://github.com/Jungdrew/C-Data-Estructures-And-Algorithms)
   
   
 ## 🤝 Support
